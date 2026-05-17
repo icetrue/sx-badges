@@ -1,2 +1,3 @@
-# sx-badges
-Insígnies SMX2 - Serveis de Xarxa
+# SX Badges Template
+
+Plantilla base per a GitHub Pages.
