@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  color: #22c55e;
+  font-size: 18px;
+}
